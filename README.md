@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fimeo/fimeo/blob/master/devcard.svg" width="400" alt="Fimeo's Dev Card"/></a>
+<a href="https://app.daily.dev/Fimeo"><img src="https://github.com/Fimeo/Fimeo/blob/main/devcard.svg" width="400" alt="Fimeo's Dev Card"/></a>
 
 <!--
 **Fimeo/Fimeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
