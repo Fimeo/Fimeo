@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://api.daily.dev/devcards/91f69f52ed1342a4bb3956c0fda426ca.png?r=868
+
 <!--
 **Fimeo/Fimeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
