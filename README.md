@@ -2,13 +2,9 @@
 <h3 align="center">I'm French and I'm doing a master's degree in computer science. I'm doing a part-time job in a young start-up as a Go and PHP back-end developer.</h3>
 <a href="https://app.daily.dev/Fimeo"><img src="https://github.com/Fimeo/Fimeo/blob/main/devcard.svg" width="400" alt="Fimeo's Dev Card"/></a>
 
-- 🔭 I’m currently working on **Some personals projects like ETNA Notification BOT and unity game**
-
 - 📫 How to reach me **fimeo.a@gmail.com**
 
-- ⚡ Fun fact **Beer language does not yet exist but is important**
-
-- 🌱 I’m currently learning some thnigs at ETNA School in Paris
+- 🌱 I’m currently learning software development at ETNA School in Paris
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
