@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex Lefevre</h1>
-<h3 align="center">I'm French and I'm doing a master's degree in computer science. I'm doing a part-time job in a young start-up as a Go and PHP back-end developer.</h3>
+<h3 align="center">I'm a French developer. I'm doing a job in a young start-up as a Go back-end developer.</h3>
 <a href="https://app.daily.dev/Fimeo"><img src="https://github.com/Fimeo/Fimeo/blob/main/devcard.svg" width="400" alt="Fimeo's Dev Card"/></a>
 
 - 📫 How to reach me **fimeo.a@gmail.com**
-
-- 🌱 I’m currently learning software development at ETNA School in Paris
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
